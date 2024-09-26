@@ -35,6 +35,8 @@ $ python ⴰⵎⴰⵣⵉⵖ.py
 ``
 $ sudo apt update
 ``
+
+``
 $ sudo apt upgrade
 ``
 
