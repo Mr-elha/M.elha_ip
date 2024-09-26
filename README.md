@@ -69,3 +69,7 @@ chomod +x ⴰⵎⴰⵣⵉⵖ.py
 ``
 $ python ⴰⵎⴰⵣⵉⵖ.py
 ``
+
+<img src="Screenshot_2024-09-26-17-40-22-715_com.termux-01.jpeg">
+<img src="Screenshot_2024-09-26-17-42-11-755_com.termux-01.zip">
+<img src="Screenshot_2024-09-26-17-38-13-200_com.termux-01.jpeg">
