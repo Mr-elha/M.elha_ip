@@ -25,7 +25,8 @@ $ cd M.elha_ip
 
 
 ``
-$ chomod +x M.elha_ip
+$ chomod +x ⴰⵎⴰⵣⵉⵖ.py
+``
 
 ``
 $ python ⴰⵎⴰⵣⵉⵖ.py
@@ -62,7 +63,8 @@ $ cd M.elha_ip
 
 
 ``
-chomod +x M.elha_ip
+chomod +x ⴰⵎⴰⵣⵉⵖ.py
+``
 
 ``
 $ python ⴰⵎⴰⵣⵉⵖ.py
